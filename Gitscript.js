@@ -1,1 +1,1 @@
-console.log('김철수');
+console.log('상원');
